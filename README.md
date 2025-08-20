@@ -8,6 +8,13 @@ Poster images were generated with ChatGPT (some text may look strange).
 
 ---
 
+<p align="center">
+  <img src="./SampleImage/Tumbnail_1.png" width="220" />
+  <img src="./SampleImage/Tumbnail_2.png" width="220" />
+  <img src="./SampleI1mage/Tumbnail_3.png" width="220" />
+</p>
+
+
 ## 📘 What I Learned  
 
 ### Swift Basics  
